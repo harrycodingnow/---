@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Analytics } from "@vercel/analytics/react";
 
 const APP_STORE_URL =
-  "https://apps.apple.com/app/apple-store/id6753856530?pt=128074005&ct=Instagram%20bio%20link&mt=8";
+  "https://apps.apple.com/app/apple-store/id6753856530?pt=128074005&ct=Official%20website%20link&mt=8";
 const PRIVACY_URL =
   "https://www.notion.so/2904d92eda8680b58fa0f58ddc39824d?source=copy_link";
 const TERMS_URL =
