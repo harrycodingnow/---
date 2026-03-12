@@ -117,7 +117,7 @@ export default function App() {
         <section className="stats">
           <div className="container stats-grid">
             <article>
-              <h3>5000+</h3>
+              <h3>6000+</h3>
               <p>{t(lang, "下載", "Downloads")}</p>
             </article>
             <article>
